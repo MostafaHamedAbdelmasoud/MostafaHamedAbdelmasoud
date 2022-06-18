@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SpiderVPN**
 
-- 🌱 I’m currently learning **Spring Boot - Docker**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Laravel , System Design**
 
