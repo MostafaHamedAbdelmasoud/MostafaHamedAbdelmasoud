@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Laravel , System Design**
+- 💬 Ask me about ** PHP, Laravel , System Design,Problem Solving, Vue.js **
 
 - 📫 How to reach me **mostafa.hamed1944@gmail.com**
 
