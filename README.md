@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about ** PHP,Laravel ,Design Patterns ,Problem Solving, Vue.js **
+- 💬 Ask me about ** PHP,Laravel ,Design Patterns ,Problem Solving, Vue.js, Node.js **
 
 - 📫 How to reach me **mostafa.hamed1944@gmail.com**
 
