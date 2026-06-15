@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafahamedabdelmasoud&label=Profile%20views&color=0e75b6&style=flat" alt="mostafahamedabdelmasoud" /> </p>
 
-- 🔭 I’m currently working on **Node.js**
+**What I work on:**
+- Distributed systems: event-driven architecture, message queues (BullMQ/Kafka), Cloudflare Workers & Queues
+- E-commerce backends: multi-vendor platforms, payment gateways (Moyasar, Apple Pay, STC Pay), ZATCA e-invoicing
+- 3PL/WMS integrations: Aramex, Mintsoft/Starlinks Last Mile Delivery
+- Infra: Kubernetes, Docker, Alibaba Cloud ECS, managed MySQL/PostgreSQL
+- Performance: 80%+ API response time reductions, N+1 query elimination, caching strategy (Redis/Valkey)
 
-- 🌱 I’m currently learning **System Design**
+**Stack:** TypeScript · NestJS · PHP · Laravel · MySQL · PostgreSQL · Docker · Kubernetes · Cloudflare Workers
+<h3>Connect with me:</h3>
 
-- 💬 Ask me about ** PHP,Laravel ,Design Patterns ,Problem Solving, Vue.js, Node.js **
-
-- 📫 How to reach me **mostafa.hamed1944@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+ 📫 mostafa.hamed1944@gmail.com · 
+  [LinkedIn](https://www.linkedin.com/in/mostafa-hamed-43a704140/)
+ 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-8aribfnv.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
