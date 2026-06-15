@@ -16,4 +16,3 @@
  📫 mostafa.hamed1944@gmail.com · 
   [LinkedIn](https://www.linkedin.com/in/mostafa-hamed-43a704140/)
  
-<h3 align="left">Languages and Tools:</h3>
